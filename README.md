@@ -1,0 +1,2 @@
+# Not-Ortalamas-
+Java
